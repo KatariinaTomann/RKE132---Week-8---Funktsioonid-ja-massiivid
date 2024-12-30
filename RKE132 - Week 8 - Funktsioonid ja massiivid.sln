@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RKE132 - Week 8 - Funktsioonid ja massiivid", "RKE132 - Week 8 - Funktsioonid ja massiivid\RKE132 - Week 8 - Funktsioonid ja massiivid.csproj", "{6E57D49F-7032-48A7-939F-4695B166E5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Failide asukoht", "Failide asukoht\Failide asukoht.csproj", "{FDE62EC7-F546-4519-9557-F73F4DD1DEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Failidest lugemine", "Failidest lugemine\Failidest lugemine.csproj", "{13A6360A-6AB7-4E72-AE2A-42CE7282C86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E57D49F-7032-48A7-939F-4695B166E5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E57D49F-7032-48A7-939F-4695B166E5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E57D49F-7032-48A7-939F-4695B166E5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E57D49F-7032-48A7-939F-4695B166E5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE62EC7-F546-4519-9557-F73F4DD1DEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE62EC7-F546-4519-9557-F73F4DD1DEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE62EC7-F546-4519-9557-F73F4DD1DEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE62EC7-F546-4519-9557-F73F4DD1DEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A6360A-6AB7-4E72-AE2A-42CE7282C86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A6360A-6AB7-4E72-AE2A-42CE7282C86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A6360A-6AB7-4E72-AE2A-42CE7282C86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A6360A-6AB7-4E72-AE2A-42CE7282C86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2F20A0-68D0-4C40-B6D4-D747D633FEB8}
+	EndGlobalSection
+EndGlobal
